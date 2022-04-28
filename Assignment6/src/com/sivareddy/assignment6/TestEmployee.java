@@ -16,9 +16,9 @@ public class TestEmployee {
 	
 	public static Vector<Employee> main1() {
 		
-		Employee e1=new Employee(101, "nagesh");
-		Employee e2=new Employee(102, "gopal");
-		Employee e3=new Employee(103,  "mahesh");
+		Employee e1=new Employee(101, "siva", "supraja");
+		Employee e2=new Employee(102, "satya", "Thaneesha");
+		Employee e3=new Employee(103, "phani", "vani");
 		Vector<Employee> v=new Vector<Employee>();
 		v.add(e1);
 		v.add(e2);
